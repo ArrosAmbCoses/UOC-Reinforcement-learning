@@ -1,0 +1,3 @@
+Executat en Google colab. Per al HTML he hagut de netejar els outputs perquè sinó no em deixava convertir-lo
+
+Run in Google colab. For the HTML I had to clean up the outputs because otherwise it wouldn't let me convert it
